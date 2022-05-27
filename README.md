@@ -1,9 +1,11 @@
-# human-pose-estimation
+# Human Pose Estimation
 
+
+## Pose Estimation Demo using Mediapipe:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wIY4GWsi2bkpQoFWd2iZrcDx5tJW-alr?usp=sharing)
 
 
-## Pose estimation Using HRNet Example:
+## Pose estimation Demo Using HRNet:
 
 ![Example](https://github.com/isrishtisingh/human-pose-estimation/blob/2d8a2b33d0f60aba77174ef78088c1e64dd45325/output.gif)
 
